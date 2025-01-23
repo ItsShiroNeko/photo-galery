@@ -1,2 +1,2 @@
 # photo-galery
-biar gak ilang hehe
+push ke github biar gak ilang hehe
